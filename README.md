@@ -4,7 +4,7 @@ I envision building innovative platforms and applications that solve real-world 
 
 🏆 So far, I’ve completed several UI projects, learned core frontend technologies like HTML, CSS and JavaScript, and I’m currently working on Futro, a University web application as part of my training.
 
-💡 My mission is to grow into a problem-solving Software Enginer who contributes to impactful products and solving world problems.
+💡 My mission is to grow into a problem-solving Software Engineer who contributes to impactful products and solving world problems.
 
 * 🌱 I’m currently learning **basic frontend development, Html, CSS, JavaScript, and React**.
 * 👯 I’m looking to collaborate on **frontend projects, open-source contributions, and web applications that solve real-world problems**.
