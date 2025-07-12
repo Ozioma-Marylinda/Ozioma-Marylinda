@@ -11,6 +11,8 @@ I envision building innovative platforms and applications that solve real-world 
 * 💬 Ask me about **software engineering, frontend development, and building user-focused digital experiences**.
 * 📫 How to reach me: **LinkedIn - https://www.linkedin.com/in/charlene-ozioma-0a1271250?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 *  Email - oziomamarylinda@gmail.com**
+*  Tiktok -  https://www.tiktok.com/@oziomamarylinda
+*  Youtube -  https://youtube.com/@oziomamarylinda?si=YyShw83Awj6AXCew
 * 😄 Pronouns: **She/Her**
 * ⚡ Fun fact: **I blend creativity with code — I’m also a scriptwriter and love crafting stories and interfaces that connect with people.**
 
