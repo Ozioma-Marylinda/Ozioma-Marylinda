@@ -1,4 +1,4 @@
-## Hi, **I’m Ozioma Marylinda** — a Junior Frontend Developer currently training with ALX.
+## Hi, **I’m Ozioma Marylinda** — a Junior Frontend Developer.
 
 I envision building innovative platforms and applications that solve real-world problems and make life easier for users.
 
