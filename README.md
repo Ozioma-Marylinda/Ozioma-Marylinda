@@ -1,4 +1,4 @@
-## Hi, **I’m Ozioma Marylinda** — a Junior Frontend Developer.
+## Hi, **I’m Ozioma Marylinda** — a Frontend Developer.
 
 I envision building innovative platforms and applications that solve real-world problems and make life easier for users.
 
